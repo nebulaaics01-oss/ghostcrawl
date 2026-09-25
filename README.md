@@ -38,7 +38,7 @@
 ## Quick Start
 
 ```bash
-git clone https://github.com/ANZZ/ghostcrawl.git
+git clone https://github.com/nebulaaics01-oss/ghostcrawl.git
 cd ghostcrawl
 python install.py
 ```
